@@ -8,8 +8,10 @@
 ## Assignment
 
 **Objective:**
-Create a file named `src/Quadratic.java` and write a program that calculates the roots of the quadratic equation \(ax^2 + bx + c = 0\) using the quadratic formula:
-\[ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]
+Create a file named `src/Quadratic.java` and write a program that calculates the roots of the quadratic equation:
+$$ax^2 + bx + c = 0$$
+using the quadratic formula:
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 **Requirements:**
 - Prompt the user to input integers for \(a\), \(b\), and \(c\).
